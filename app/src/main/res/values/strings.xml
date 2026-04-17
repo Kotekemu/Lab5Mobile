@@ -1,3 +1,31 @@
 <resources>
     <string name="app_name">Lab5Mobile</string>
+    <string name="top_bar_title">Поиск рейсов</string>
+    <string name="search_label">Поиск аэропорта</string>
+    <string name="search_placeholder">Введите код IATA или название латиницей</string>
+    <string name="clear_button">Очистить</string>
+    <string name="search_button">Найти</string>
+    <string name="suggestions_title">Подсказки</string>
+    <string name="airports_not_found">Аэропорты не найдены.</string>
+    <string name="flights_from_title">Рейсы из %1$s</string>
+    <string name="flights_not_found">Рейсы не найдены.</string>
+    <string name="favorite_routes_title">Избранные маршруты</string>
+    <string name="favorite_route_label">ИЗБРАННЫЙ МАРШРУТ</string>
+    <string name="no_favorite_routes">Пока нет избранных маршрутов.</string>
+    <string name="delete_button">Удалить</string>
+    <string name="departure_label">ОТПРАВЛЕНИЕ</string>
+    <string name="arrival_label">ПРИБЫТИЕ</string>
+    <string name="flight_id_label">ID РЕЙСА</string>
+    <string name="add_favorite_action">Добавить в избранное</string>
+    <string name="remove_favorite_action">Удалить из избранного</string>
+    <string name="error_load_suggestions">Не удалось загрузить подсказки аэропортов.</string>
+    <string name="error_load_flights">Не удалось загрузить список рейсов.</string>
+    <string name="error_load_favorites">Не удалось загрузить избранные маршруты.</string>
+    <string name="error_airport_not_found">Аэропорт не найден.</string>
+    <string name="error_search_failed">Не удалось выполнить поиск.</string>
+    <string name="error_update_favorites">Не удалось обновить избранное.</string>
+    <string name="error_delete_favorite">Не удалось удалить маршрут из избранного.</string>
+    <string name="error_restore_last_search">Не удалось восстановить последний поиск.</string>
+    <string name="depart_short_label">ОТПРАВЛЕНИЕ</string>
+    <string name="arrive_short_label">ПРИБЫТИЕ</string>
 </resources>

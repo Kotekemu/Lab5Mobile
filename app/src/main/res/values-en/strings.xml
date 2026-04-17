@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Lab5Mobile</string>
+    <string name="top_bar_title">Flight Search</string>
+    <string name="search_label">Airport search</string>
+    <string name="search_placeholder">Enter IATA code or airport name in Latin</string>
+    <string name="clear_button">Clear</string>
+    <string name="search_button">Search</string>
+    <string name="suggestions_title">Suggestions</string>
+    <string name="airports_not_found">No airports found.</string>
+    <string name="flights_from_title">Flights from %1$s</string>
+    <string name="flights_not_found">No flights found.</string>
+    <string name="favorite_routes_title">Favorite routes</string>
+    <string name="favorite_route_label">FAVORITE ROUTE</string>
+    <string name="no_favorite_routes">There are no favorite routes yet.</string>
+    <string name="delete_button">Delete</string>
+    <string name="departure_label">DEPARTURE</string>
+    <string name="arrival_label">ARRIVAL</string>
+    <string name="flight_id_label">FLIGHT ID</string>
+    <string name="add_favorite_action">Add to favorites</string>
+    <string name="remove_favorite_action">Remove from favorites</string>
+    <string name="error_load_suggestions">Failed to load airport suggestions.</string>
+    <string name="error_load_flights">Failed to load flight list.</string>
+    <string name="error_load_favorites">Failed to load favorite routes.</string>
+    <string name="error_airport_not_found">Airport not found.</string>
+    <string name="error_search_failed">Failed to perform search.</string>
+    <string name="error_update_favorites">Failed to update favorites.</string>
+    <string name="error_delete_favorite">Failed to remove route from favorites.</string>
+    <string name="error_restore_last_search">Failed to restore the last search.</string>
+    <string name="depart_short_label">DEPART</string>
+    <string name="arrive_short_label">ARRIVE</string>
+</resources>
